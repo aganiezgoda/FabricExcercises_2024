@@ -1,6 +1,6 @@
 # Let's do some data exploration with notebooks
 
-## 1. Download the file
+## 1. Download the file reviews_short.csv
 
 ## 2. Load it to your Files in Fabric
 
